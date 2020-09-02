@@ -93,8 +93,6 @@ Acorn Final Marks Scraper April 2020\
 Experience
 ==========
 
-Blue Sky Solar Racing \| Toronto, ON - *Web Developer* September 2020 -
-Present\
 Hart House Symphonic Band \| Toronto, ON - *Webmaster* July 2020 -
 Present\
 K12 Building Blocks \| Aurora, ON - *Computer Science Instructor* July
