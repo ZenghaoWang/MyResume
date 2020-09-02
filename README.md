@@ -11,7 +11,7 @@ Qualification Highlights
 ========================
 
 -   Second-year computer science student at the University of Toronto,
-    St. George Campus, 3.73 CGPA
+    St. George Campus, 3.82 CGPA
 
 -   Proficient in Python, R, C++, Java
 
