@@ -4,3 +4,5 @@
 *.xdv
 *.synctex.gz
 coverletter*-*
+
+!resume.pdf
