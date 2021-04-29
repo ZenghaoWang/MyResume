@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Compile resume to PDF
-        uses: dante-ev/latex-action@master
+        uses: xu-cheng/latex-action@v2
         with:
           root_file: resume.tex
           args: -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
