@@ -14,7 +14,8 @@ jobs:
         uses: dante-ev/latex-action@master
         with:
           root_file: resume.tex
-          args: -xelatex -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
+          args: -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
+          latexmk_use_xelatex: true
 
       - name: Create release
         id: create_release
