@@ -10,12 +10,12 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
 
-      - name: Compile resume to PDF
-        uses: xu-cheng/latex-action@v2
-        with:
-          root_file: resume.tex
-          args: -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
-          latexmk_use_xelatex: true
+      # - name: Compile resume to PDF
+      #   uses: xu-cheng/latex-action@v2
+      #   with:
+      #     root_file: resume.tex
+      #     args: -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
+      #     latexmk_use_xelatex: true
 
       - name: Create release
         id: create_release

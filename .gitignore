@@ -1,6 +1,8 @@
-!
 *.pdf 
 *.png
 *.xdv
 *.synctex.gz
 coverletter*-*
+
+
+!resume.pdf
